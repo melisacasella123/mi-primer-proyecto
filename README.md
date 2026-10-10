@@ -1,10 +1,10 @@
 # Mi primer proyecto
 
-Soy Ana y estoy aprendiendo a usar GitHub.
+Soy Melisa y estoy aprendiendo a usar GitHub.
 
 ## Mi objetivo
 
-Quiero organizar mis trabajos de Big Data con github.
+Quiero organizar mis trabajos de Big Data de la materia con github.
 
 ## Mi primer avance
 
