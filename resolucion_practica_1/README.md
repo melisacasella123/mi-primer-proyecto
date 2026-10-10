@@ -1,16 +1,3 @@
-# Mi primer proyecto
-
-Soy Melisa Casella y estoy aprendiendo a usar GitHub.
-
-## Mi objetivo
-
-Quiero organizar mis trabajos de Big Data en clase de la materia con github.
-
-## Mi primer avance
-
-Hoy creé un repositorio y guardé mi primer commit.
-
-
 Consigna:
 
 ## (1) Tres observaciones sobre CSV/JSON, Parquet y Delta
