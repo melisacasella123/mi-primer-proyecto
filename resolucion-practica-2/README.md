@@ -14,7 +14,7 @@ Proyecto: Práctica 2 — Silver, Gold y orquestación
 
 Se creó un Lakeflow Job para ejecutar automáticamente las cuatro tareas del pipeline, utilizando Serverless como entorno de ejecución.
 
-Nombre del Job: bigdata_<melisa_casella>_silver_gold
+Nombre del Job: bigdata_melisa_casella_silver_gold
 
 URL del Job: https://dbc-894f8763-2aaf.cloud.databricks.com/jobs/711621953516368/tasks?o=7474647377882574
 
