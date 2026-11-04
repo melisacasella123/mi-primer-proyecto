@@ -34,7 +34,7 @@ Las dependencias garantizan que cada tarea se ejecute únicamente cuando la ante
 
 Captura del DAG:
 
-<img width="790" height="222" alt="job 3" src="https://github.com/user-attachments/assets/ee305320-f69b-48c5-87bb-a19e0f42a1b8" />
+![DAG del Lakeflow Job](job.JPG)
 
 
 3. Ejecuciones del pipeline:
@@ -79,7 +79,7 @@ Pregunta: ¿Qué día tuvo el mayor monto vendido y ese día también fue el de 
 
 Visualización: gráfico temporal que permite comparar el monto total vendido y la cantidad de transacciones por día, manteniendo diferenciadas las unidades de cada métrica.
 
-<img width="1189" height="489" alt="imagen" src="https://github.com/user-attachments/assets/b2bf85de-3b54-41c6-bbe5-63373e3db970" />
+![Evolución temporal](figura%201.png)
 
 
 
@@ -93,7 +93,7 @@ Pregunta: ¿Qué canal de pago presenta la mayor tasa de fraude? ¿La conclusió
 
 Visualización: gráfico comparativo de los canales de pago, mostrando la tasa de fraude y el volumen de transacciones para cada uno.
 
-<img width="889" height="390" alt="imagen" src="https://github.com/user-attachments/assets/8915349b-93bf-44bf-b207-47f8f520394b" />
+![Canal y fraude](figura%202.png)
 
 
 
@@ -107,7 +107,7 @@ Pregunta: ¿Qué combinación de país y categoría genera el mayor monto? ¿Exi
 
 Visualización: mapa de calor que compara los montos vendidos por país y categoría. Se agregaron etiquetas numéricas a las celdas para facilitar la lectura de los valores, además de utilizar una escala de colores para identificar las mayores concentraciones.
 
-<img width="831" height="390" alt="imagen" src="https://github.com/user-attachments/assets/d0e2475f-9532-4d9c-8edc-20300259a98a" />
+![Concentración geográfica y de producto](figura%203.png)
 
 
 
@@ -121,7 +121,8 @@ Pregunta: ¿Qué proporción de cada lote fue aceptada y rechazada? ¿El lote nu
 
 Visualización: gráfico de barras apiladas al 100 %, que compara los porcentajes de transacciones aceptadas y rechazadas de cada lote.
 
-<img width="889" height="390" alt="imagen" src="https://github.com/user-attachments/assets/1d847466-fd97-4ae9-9e43-7b8c05c3d25b" />
+![Calidad del pipeline](figura%204.png)
+
 
 
 Conclusión:
